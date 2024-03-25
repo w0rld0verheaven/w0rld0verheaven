@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w0rld0verheaven
 - 👀 I’m interested in ... game development and shi
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... PYTHON
 
 
 - 😄 Pronouns: ... He/Him
